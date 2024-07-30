@@ -1,0 +1,21 @@
+{
+  "name": "minimal",
+  "displayName": "Minimal",
+  "description": "The theme that embraces minimalism and productivity, rather than fireworks and neons.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-color-theme.json"
+      }
+    ]
+  }
+}
